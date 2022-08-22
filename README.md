@@ -1,2 +1,1 @@
-# terraform-provider-unearx-cloud
-Terraform UnearX Cloud Provider
+# Terraform UnearX Cloud Provider
